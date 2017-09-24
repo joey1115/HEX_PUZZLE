@@ -30,7 +30,7 @@ def start():
     else:
         h_max = (c - 2) * 3 + 2 + math.sqrt(3)/2.0
     v_max = math.sqrt(3) / 2 * (1 + 2 * c)
-    r = min((x-10) / (2.0 * h_max), (y-10) / (2.0 * v_max))
+    r = min((y-10) / (2.0 * h_max), (x-10) / (2.0 * v_max))
     coord = np.array([[0, 0]])
     pos = np.array([[xc, yc]])
     empty_ID = 0
