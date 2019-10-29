@@ -1,3 +1,3 @@
 # HEX_PUZZLE
-...
-Hex Puzzle For DREXEL ECEC 301 Final Project
+
+Hex Puzzle For DREXEL UNIVERSITY ECEC 301 Final Project
